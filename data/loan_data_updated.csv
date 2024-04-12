@@ -1,0 +1,382 @@
+loan_id,applicant_gender,applicant_married,applicant_dependents,applicant_education,applicant_employment,applicant_income,applicant_employment_history,applicant_credit_score,applicant_credit_default,applicant_credit_history,co_applicant,co_applicant_income,co_applicant_employment,co_applicant_employment_history,co_applicant_credit_score,co_applicant_credit_default,loan_amount,loan_amount_term,property_area,loan_status
+LP001003,Male,True,1,Graduate,Salaried,4583,34,580,True,60,False,1508.0,Not Applicable,0,650,False,128.0,360.0,Rural,False
+LP001005,Male,True,0,Graduate,Self-Employed,3000,29,823,True,35,True,0.0,Salaried,8,759,False,66.0,360.0,Urban,True
+LP001006,Male,True,0,Not Graduate,Salaried,2583,8,710,False,14,False,2358.0,Not Applicable,0,650,False,120.0,360.0,Urban,True
+LP001008,Male,False,0,Graduate,Salaried,6000,29,838,False,49,True,0.0,Self-Employed,4,861,False,141.0,360.0,Urban,True
+LP001013,Male,True,0,Not Graduate,Salaried,2333,47,727,False,54,True,1516.0,Salaried,7,607,False,95.0,360.0,Urban,True
+LP001024,Male,True,2,Graduate,Salaried,3200,23,842,True,34,False,700.0,Not Applicable,0,650,False,70.0,360.0,Urban,True
+LP001027,Male,True,2,Graduate,Salaried,2500,34,688,False,36,False,1840.0,Not Applicable,0,650,False,109.0,360.0,Urban,True
+LP001029,Male,False,0,Graduate,Salaried,1853,43,800,False,52,True,2840.0,Self-Employed,11,698,True,114.0,360.0,Rural,False
+LP001030,Male,True,2,Graduate,Salaried,1299,2,886,False,27,False,1086.0,Not Applicable,0,650,False,17.0,120.0,Urban,True
+LP001032,Male,False,0,Graduate,Salaried,4950,51,887,False,54,True,0.0,Salaried,25,888,False,125.0,360.0,Urban,True
+LP001034,Male,False,1,Not Graduate,Salaried,3596,49,885,False,55,True,0.0,Self-Employed,28,899,True,100.0,240.0,Urban,True
+LP001036,Female,False,0,Graduate,Salaried,3510,22,321,True,35,False,0.0,Not Applicable,0,650,False,76.0,360.0,Urban,False
+LP001038,Male,True,0,Not Graduate,Salaried,4887,9,472,True,50,True,0.0,Salaried,3,591,True,133.0,360.0,Rural,False
+LP001041,Male,True,0,Graduate,Salaried,2600,37,886,True,45,False,3500.0,Not Applicable,0,650,False,115.0,,Urban,True
+LP001043,Male,True,0,Not Graduate,Salaried,7660,1,336,False,4,False,0.0,Not Applicable,0,650,False,104.0,360.0,Urban,False
+LP001047,Male,True,0,Not Graduate,Salaried,2600,31,665,True,44,True,1911.0,Self-Employed,20,683,True,116.0,360.0,Semiurban,False
+LP001050,,True,2,Not Graduate,Salaried,3365,10,422,True,14,True,1917.0,Salaried,3,529,False,112.0,360.0,Rural,False
+LP001068,Male,True,0,Graduate,Salaried,2799,43,757,False,56,False,2253.0,Not Applicable,0,650,False,122.0,360.0,Semiurban,True
+LP001073,Male,True,2,Not Graduate,Salaried,4226,1,761,False,14,False,1040.0,Not Applicable,0,650,False,110.0,360.0,Urban,True
+LP001086,Male,False,0,Not Graduate,Salaried,1442,59,401,True,60,False,0.0,Not Applicable,0,650,False,35.0,360.0,Urban,False
+LP001087,Female,False,2,Graduate,Salaried,3750,34,736,False,58,True,2083.0,Self-Employed,29,839,False,120.0,360.0,Semiurban,True
+LP001095,Male,False,0,Graduate,Salaried,3167,8,374,True,24,False,0.0,Not Applicable,0,650,False,74.0,360.0,Urban,False
+LP001097,Male,False,1,Graduate,Self-Employed,4692,42,538,False,48,True,0.0,Self-Employed,2,569,True,106.0,360.0,Rural,False
+LP001098,Male,True,0,Graduate,Salaried,3500,55,839,False,59,True,1667.0,Self-Employed,41,770,False,114.0,360.0,Semiurban,True
+LP001109,Male,True,0,Graduate,Salaried,1828,48,383,True,48,False,1330.0,Not Applicable,0,650,False,100.0,,Urban,False
+LP001112,Female,True,0,Graduate,Salaried,3667,50,720,False,55,True,1459.0,Salaried,39,751,False,144.0,360.0,Semiurban,True
+LP001116,Male,False,0,Not Graduate,Salaried,3748,42,899,True,45,True,1668.0,Salaried,41,653,False,110.0,360.0,Semiurban,True
+LP001119,Male,False,0,Graduate,Salaried,3600,24,570,True,40,False,0.0,Not Applicable,0,650,False,80.0,360.0,Urban,False
+LP001120,Male,False,0,Graduate,Salaried,1800,35,894,False,35,True,1213.0,Self-Employed,11,687,False,47.0,360.0,Urban,True
+LP001123,Male,True,0,Graduate,Salaried,2400,58,655,False,59,True,0.0,Self-Employed,16,626,False,75.0,360.0,Urban,True
+LP001131,Male,True,0,Graduate,Salaried,3941,36,764,False,48,False,2336.0,Not Applicable,0,650,False,134.0,360.0,Semiurban,True
+LP001136,Male,True,0,Not Graduate,Self-Employed,4695,39,712,False,47,True,0.0,Self-Employed,29,878,False,96.0,,Urban,True
+LP001137,Female,False,0,Graduate,Salaried,3410,49,713,False,51,False,0.0,Not Applicable,0,650,False,88.0,,Urban,True
+LP001138,Male,True,1,Graduate,Salaried,5649,37,780,False,50,True,0.0,Salaried,14,759,True,44.0,360.0,Urban,True
+LP001144,Male,True,0,Graduate,Salaried,5821,29,738,False,40,True,0.0,Self-Employed,28,839,False,144.0,360.0,Urban,True
+LP001146,Female,True,0,Graduate,Salaried,2645,4,300,True,45,False,3440.0,Not Applicable,0,650,False,120.0,360.0,Urban,False
+LP001151,Female,False,0,Graduate,Salaried,4000,48,887,False,48,True,2275.0,Self-Employed,36,798,False,144.0,360.0,Semiurban,True
+LP001155,Female,True,0,Not Graduate,Salaried,1928,18,713,True,58,False,1644.0,Not Applicable,0,650,False,100.0,360.0,Semiurban,True
+LP001157,Female,False,0,Graduate,Salaried,3086,48,884,True,58,True,0.0,Salaried,13,611,True,120.0,360.0,Semiurban,True
+LP001164,Female,False,0,Graduate,Salaried,4230,41,404,False,58,False,0.0,Not Applicable,0,650,False,112.0,360.0,Semiurban,False
+LP001179,Male,True,2,Graduate,Salaried,4616,33,371,True,53,True,0.0,Self-Employed,18,528,True,134.0,360.0,Urban,False
+LP001194,Male,True,2,Graduate,Salaried,2708,53,700,False,56,False,1167.0,Not Applicable,0,650,False,97.0,360.0,Semiurban,True
+LP001195,Male,True,0,Graduate,Salaried,2132,15,790,False,43,False,1591.0,Not Applicable,0,650,False,96.0,360.0,Semiurban,True
+LP001197,Male,True,0,Graduate,Salaried,3366,29,552,False,40,False,2200.0,Not Applicable,0,650,False,135.0,360.0,Rural,False
+LP001199,Male,True,2,Not Graduate,Salaried,3357,35,707,True,38,True,2859.0,Salaried,32,605,False,144.0,360.0,Urban,True
+LP001205,Male,True,0,Graduate,Salaried,2500,47,863,False,57,False,3796.0,Not Applicable,0,650,False,120.0,360.0,Urban,True
+LP001206,Male,True,3+,Graduate,Salaried,3029,51,898,False,56,True,0.0,Salaried,3,893,False,99.0,360.0,Urban,True
+LP001222,Female,False,0,Graduate,Salaried,4166,48,492,True,53,True,0.0,Self-Employed,43,605,True,116.0,360.0,Semiurban,False
+LP001228,Male,False,0,Not Graduate,Salaried,3200,20,516,True,38,False,2254.0,Not Applicable,0,650,False,126.0,180.0,Urban,False
+LP001238,Male,True,3+,Not Graduate,Self-Employed,7100,17,890,True,45,True,0.0,Self-Employed,0,836,False,125.0,60.0,Urban,True
+LP001241,Female,False,0,Graduate,Salaried,4300,45,609,True,45,False,0.0,Not Applicable,0,650,False,136.0,360.0,Semiurban,False
+LP001245,Male,True,2,Not Graduate,Self-Employed,1875,48,722,False,49,True,1875.0,Salaried,18,828,False,97.0,360.0,Semiurban,True
+LP001248,Male,False,0,Graduate,Salaried,3500,44,652,False,46,False,0.0,Not Applicable,0,650,False,81.0,300.0,Semiurban,True
+LP001250,Male,True,3+,Not Graduate,Salaried,4755,12,372,True,37,False,0.0,Not Applicable,0,650,False,95.0,,Semiurban,False
+LP001255,Male,False,0,Graduate,Salaried,3750,1,380,False,48,False,0.0,Not Applicable,0,650,False,113.0,480.0,Urban,False
+LP001259,Male,True,1,Graduate,Self-Employed,1000,9,503,True,49,True,3022.0,Salaried,1,456,True,110.0,360.0,Urban,False
+LP001264,Male,True,3+,Not Graduate,Self-Employed,3333,39,887,False,56,False,2166.0,Not Applicable,0,650,False,130.0,360.0,Semiurban,True
+LP001265,Female,False,0,Graduate,Salaried,3846,46,897,True,54,True,0.0,Self-Employed,6,882,True,111.0,360.0,Semiurban,True
+LP001275,Male,True,1,Graduate,Salaried,3988,19,799,False,41,False,0.0,Not Applicable,0,650,False,50.0,240.0,Urban,True
+LP001279,Male,False,0,Graduate,Salaried,2366,59,654,False,59,True,2531.0,Self-Employed,9,624,True,136.0,360.0,Semiurban,True
+LP001280,Male,True,2,Not Graduate,Salaried,3333,24,866,True,40,True,2000.0,Self-Employed,16,789,False,99.0,360.0,Semiurban,True
+LP001282,Male,True,0,Graduate,Salaried,2500,1,882,True,9,False,2118.0,Not Applicable,0,650,False,104.0,360.0,Semiurban,True
+LP001316,Male,True,0,Graduate,Salaried,2958,17,852,False,36,True,2900.0,Self-Employed,6,871,True,131.0,360.0,Semiurban,True
+LP001319,Male,True,2,Not Graduate,Salaried,3273,48,663,False,50,False,1820.0,Not Applicable,0,650,False,81.0,360.0,Urban,True
+LP001322,Male,False,0,Graduate,Salaried,4133,59,740,False,59,True,0.0,Self-Employed,3,794,False,122.0,360.0,Semiurban,True
+LP001325,Male,False,0,Not Graduate,Salaried,3620,23,707,False,41,True,0.0,Salaried,16,842,False,25.0,120.0,Semiurban,True
+LP001327,Female,True,0,Graduate,Salaried,2484,14,893,False,41,False,2302.0,Not Applicable,0,650,False,137.0,360.0,Semiurban,True
+LP001333,Male,True,0,Graduate,Salaried,1977,47,718,False,47,False,997.0,Not Applicable,0,650,False,50.0,360.0,Semiurban,True
+LP001334,Male,True,0,Not Graduate,Salaried,4188,26,716,False,60,True,0.0,Salaried,13,730,False,115.0,180.0,Semiurban,True
+LP001343,Male,True,0,Graduate,Salaried,1759,49,711,False,60,True,3541.0,Salaried,37,831,False,131.0,360.0,Semiurban,True
+LP001345,Male,True,2,Not Graduate,Salaried,4288,48,685,False,53,True,3263.0,Self-Employed,39,602,False,133.0,180.0,Urban,True
+LP001367,Male,True,1,Graduate,Salaried,3052,25,863,True,56,False,1030.0,Not Applicable,0,650,False,100.0,360.0,Urban,True
+LP001370,Male,False,0,Not Graduate,Salaried,7333,36,516,False,43,True,0.0,Salaried,28,511,True,120.0,360.0,Rural,False
+LP001384,Male,True,3+,Not Graduate,Salaried,2071,55,687,False,56,True,754.0,Self-Employed,14,637,False,94.0,480.0,Semiurban,True
+LP001385,Male,False,0,Graduate,Salaried,5316,6,802,False,46,False,0.0,Not Applicable,0,650,False,136.0,360.0,Urban,True
+LP001387,Female,True,0,Graduate,Salaried,2929,37,714,False,39,False,2333.0,Not Applicable,0,650,False,139.0,360.0,Semiurban,True
+LP001398,Male,False,0,Graduate,Salaried,5050,27,849,False,35,False,0.0,Not Applicable,0,650,False,118.0,360.0,Semiurban,True
+LP001405,Male,True,1,Graduate,Salaried,2214,50,718,False,51,True,1398.0,Self-Employed,42,664,False,85.0,360.0,Urban,True
+LP001430,Female,False,0,Graduate,Salaried,4166,40,782,False,45,True,0.0,Self-Employed,36,606,False,44.0,360.0,Semiurban,True
+LP001431,Female,False,0,Graduate,Salaried,2137,21,882,False,53,False,8980.0,Not Applicable,0,650,False,137.0,360.0,Semiurban,True
+LP001432,Male,True,2,Graduate,Salaried,2957,58,733,False,60,True,0.0,Self-Employed,48,819,False,81.0,360.0,Semiurban,True
+LP001443,Female,False,0,Graduate,Salaried,3692,59,880,False,60,True,0.0,Salaried,33,783,False,93.0,360.0,Rural,True
+LP001473,Male,False,0,Graduate,Salaried,2014,1,725,True,16,False,1929.0,Not Applicable,0,650,False,74.0,360.0,Urban,True
+LP001478,Male,False,0,Graduate,Salaried,2718,56,715,False,59,True,0.0,Salaried,44,855,False,70.0,360.0,Semiurban,True
+LP001482,Male,True,0,Graduate,Self-Employed,3459,1,780,False,58,False,0.0,Not Applicable,0,650,False,25.0,120.0,Semiurban,True
+LP001487,Male,False,0,Graduate,Salaried,4895,4,669,True,7,False,0.0,Not Applicable,0,650,False,102.0,360.0,Semiurban,True
+LP001489,Female,True,0,Graduate,Salaried,4583,54,442,True,55,True,0.0,Self-Employed,37,550,False,84.0,360.0,Rural,False
+LP001491,Male,True,2,Graduate,Self-Employed,3316,26,657,False,36,True,3500.0,Self-Employed,22,812,False,88.0,360.0,Urban,True
+LP001493,Male,True,2,Not Graduate,Salaried,4200,52,346,True,58,True,1430.0,Self-Employed,25,409,True,129.0,360.0,Rural,False
+LP001507,Male,True,0,Graduate,Salaried,2698,46,857,False,48,False,2034.0,Not Applicable,0,650,False,122.0,360.0,Semiurban,True
+LP001514,Female,True,0,Graduate,Salaried,2330,15,889,False,58,True,4486.0,Salaried,3,761,False,100.0,360.0,Semiurban,True
+LP001518,Male,True,1,Graduate,Salaried,1538,29,707,False,48,True,1425.0,Self-Employed,8,845,False,30.0,360.0,Urban,True
+LP001520,Male,True,0,Graduate,Salaried,4860,40,826,False,59,False,830.0,Not Applicable,0,650,False,125.0,360.0,Semiurban,True
+LP001528,Male,False,0,Graduate,Salaried,6277,15,330,True,38,True,0.0,Salaried,15,574,True,118.0,360.0,Rural,False
+LP001532,Male,True,2,Not Graduate,Salaried,2281,59,387,True,59,False,0.0,Not Applicable,0,650,False,113.0,360.0,Rural,False
+LP001535,Male,False,0,Graduate,Salaried,3254,10,812,False,25,True,0.0,Self-Employed,1,705,False,50.0,360.0,Urban,True
+LP001546,Male,False,0,Graduate,Salaried,2980,36,824,True,38,False,2083.0,Not Applicable,0,650,False,120.0,360.0,Rural,True
+LP001560,Male,True,0,Not Graduate,Salaried,1863,22,715,True,48,False,1041.0,Not Applicable,0,650,False,98.0,360.0,Semiurban,True
+LP001565,Male,True,1,Graduate,Salaried,3089,18,525,True,20,False,1280.0,Not Applicable,0,650,False,121.0,360.0,Semiurban,False
+LP001572,Male,True,0,Graduate,Salaried,9323,5,899,False,36,False,0.0,Not Applicable,0,650,False,75.0,180.0,Urban,True
+LP001577,Female,True,0,Graduate,Salaried,4583,6,569,True,37,False,0.0,Not Applicable,0,650,False,112.0,360.0,Rural,False
+LP001578,Male,True,0,Graduate,Salaried,2439,6,668,False,41,False,3333.0,Not Applicable,0,650,False,129.0,360.0,Rural,True
+LP001579,Male,False,0,Graduate,Salaried,2237,57,506,True,59,True,0.0,Salaried,43,474,True,63.0,480.0,Semiurban,False
+LP001581,Male,True,0,Not Graduate,Salaried,1820,60,859,False,60,False,1769.0,Not Applicable,0,650,False,95.0,360.0,Rural,True
+LP001586,Male,True,3+,Not Graduate,Salaried,3522,14,441,False,14,False,0.0,Not Applicable,0,650,False,81.0,180.0,Rural,False
+LP001603,Male,True,0,Not Graduate,Self-Employed,4344,33,531,True,44,True,736.0,Self-Employed,19,425,False,87.0,360.0,Semiurban,False
+LP001606,Male,True,0,Graduate,Salaried,3497,18,684,False,46,False,1964.0,Not Applicable,0,650,False,116.0,360.0,Rural,True
+LP001608,Male,True,2,Graduate,Salaried,2045,28,666,False,50,False,1619.0,Not Applicable,0,650,False,101.0,360.0,Rural,True
+LP001616,Male,True,1,Graduate,Salaried,3750,31,813,True,38,False,0.0,Not Applicable,0,650,False,116.0,360.0,Semiurban,True
+LP001630,Male,False,0,Not Graduate,Salaried,2333,23,496,True,30,False,1451.0,Not Applicable,0,650,False,102.0,480.0,Urban,False
+LP001634,Male,False,0,Graduate,Salaried,1916,10,450,True,46,False,5063.0,Not Applicable,0,650,False,67.0,360.0,Rural,False
+LP001636,Male,True,0,Graduate,Salaried,4600,59,841,True,59,True,0.0,Salaried,30,784,False,73.0,180.0,Semiurban,True
+LP001639,Female,True,0,Graduate,Salaried,3625,51,885,False,51,True,0.0,Self-Employed,37,751,False,108.0,360.0,Semiurban,True
+LP001641,Male,True,1,Graduate,Self-Employed,2178,57,683,True,58,True,0.0,Self-Employed,44,686,True,66.0,300.0,Rural,False
+LP001643,Male,True,0,Graduate,Salaried,2383,54,715,True,60,True,2138.0,Self-Employed,28,659,False,58.0,360.0,Rural,True
+LP001653,Male,False,0,Not Graduate,Salaried,4885,19,874,False,41,True,0.0,Self-Employed,18,882,True,48.0,360.0,Rural,True
+LP001658,Male,False,0,Graduate,Salaried,3858,48,791,False,56,False,0.0,Not Applicable,0,650,False,76.0,360.0,Semiurban,True
+LP001664,Male,False,0,Graduate,Salaried,4191,26,801,False,45,False,0.0,Not Applicable,0,650,False,120.0,360.0,Rural,True
+LP001669,Female,False,0,Not Graduate,Salaried,1907,51,898,False,53,True,2365.0,Salaried,1,813,False,120.0,,Urban,True
+LP001671,Female,True,0,Graduate,Salaried,3416,49,810,False,59,True,2816.0,Salaried,34,711,False,113.0,360.0,Semiurban,True
+LP001674,Male,True,1,Not Graduate,Salaried,2600,60,694,False,60,True,2500.0,Self-Employed,0,637,False,90.0,360.0,Semiurban,True
+LP001688,Male,True,1,Not Graduate,Salaried,3500,56,765,True,58,True,1083.0,Salaried,30,884,False,135.0,360.0,Urban,True
+LP001691,Male,True,2,Not Graduate,Salaried,3917,40,887,False,60,True,0.0,Self-Employed,36,620,False,124.0,360.0,Semiurban,True
+LP001692,Female,False,0,Not Graduate,Salaried,4408,53,731,False,60,True,0.0,Self-Employed,37,727,False,120.0,360.0,Semiurban,True
+LP001693,Female,False,0,Graduate,Salaried,3244,8,699,False,35,False,0.0,Not Applicable,0,650,False,80.0,360.0,Urban,True
+LP001698,Male,False,0,Not Graduate,Salaried,3975,51,849,False,58,False,2531.0,Not Applicable,0,650,False,55.0,360.0,Rural,True
+LP001699,Male,False,0,Graduate,Salaried,2479,46,822,False,60,True,0.0,Salaried,42,833,True,59.0,360.0,Urban,True
+LP001702,Male,False,0,Graduate,Salaried,3418,60,587,True,60,True,0.0,Salaried,35,627,True,127.0,360.0,Semiurban,False
+LP001711,Male,True,3+,Graduate,Salaried,3430,11,322,False,15,False,1250.0,Not Applicable,0,650,False,128.0,360.0,Semiurban,False
+LP001715,Male,True,3+,Not Graduate,Self-Employed,5703,46,690,True,55,True,0.0,Salaried,8,621,False,130.0,360.0,Rural,True
+LP001716,Male,True,0,Graduate,Salaried,3173,32,674,False,46,False,3021.0,Not Applicable,0,650,False,137.0,360.0,Urban,True
+LP001720,Male,True,3+,Not Graduate,Salaried,3850,2,743,False,51,False,983.0,Not Applicable,0,650,False,100.0,360.0,Semiurban,True
+LP001722,Male,True,0,Graduate,Salaried,150,56,708,True,60,True,1800.0,Self-Employed,30,663,True,135.0,360.0,Rural,False
+LP001726,Male,True,0,Graduate,Salaried,3727,44,713,False,57,False,1775.0,Not Applicable,0,650,False,131.0,360.0,Semiurban,True
+LP001732,Male,True,2,Graduate,Salaried,5000,4,505,True,27,False,0.0,Not Applicable,0,650,False,72.0,360.0,Semiurban,False
+LP001734,Female,True,2,Graduate,Salaried,4283,52,693,False,59,False,2383.0,Not Applicable,0,650,False,127.0,360.0,Semiurban,True
+LP001736,Male,True,0,Graduate,Salaried,2221,51,629,True,59,False,0.0,Not Applicable,0,650,False,60.0,360.0,Urban,False
+LP001743,Male,True,2,Graduate,Salaried,4009,52,755,False,52,True,1717.0,Self-Employed,44,785,False,116.0,360.0,Semiurban,True
+LP001744,Male,False,0,Graduate,Salaried,2971,14,698,True,54,False,2791.0,Not Applicable,0,650,False,144.0,360.0,Semiurban,True
+LP001750,Male,True,0,Graduate,Salaried,6250,27,682,False,36,False,0.0,Not Applicable,0,650,False,128.0,360.0,Semiurban,True
+LP001754,Male,True,,Not Graduate,Self-Employed,4735,27,882,True,49,True,0.0,Self-Employed,6,667,False,138.0,360.0,Urban,False
+LP001765,Male,True,1,Graduate,Salaried,2491,28,833,False,28,True,2054.0,Self-Employed,24,825,True,104.0,360.0,Semiurban,True
+LP001768,Male,True,0,Graduate,Salaried,3716,58,801,False,60,True,0.0,Self-Employed,33,814,False,42.0,180.0,Rural,True
+LP001770,Male,False,0,Not Graduate,Salaried,3189,23,671,False,25,False,2598.0,Not Applicable,0,650,False,120.0,,Rural,True
+LP001778,Male,True,1,Graduate,Salaried,3155,30,895,False,45,False,1779.0,Not Applicable,0,650,False,140.0,360.0,Semiurban,True
+LP001788,Female,False,0,Graduate,Self-Employed,3463,49,757,False,51,True,0.0,Salaried,30,633,False,122.0,360.0,Urban,True
+LP001790,Female,False,1,Graduate,Salaried,3812,35,733,False,53,False,0.0,Not Applicable,0,650,False,112.0,360.0,Rural,True
+LP001792,Male,True,1,Graduate,Salaried,3315,40,655,False,60,False,0.0,Not Applicable,0,650,False,96.0,360.0,Semiurban,True
+LP001798,Male,True,2,Graduate,Salaried,5819,58,686,False,60,False,5000.0,Not Applicable,0,650,False,120.0,360.0,Rural,True
+LP001800,Male,True,1,Not Graduate,Salaried,2510,32,460,True,52,False,1983.0,Not Applicable,0,650,False,140.0,180.0,Urban,False
+LP001807,Male,True,2,Graduate,Self-Employed,6250,28,826,False,35,False,1300.0,Not Applicable,0,650,False,108.0,360.0,Rural,True
+LP001811,Male,True,0,Not Graduate,Salaried,3406,30,712,False,51,False,4417.0,Not Applicable,0,650,False,123.0,360.0,Semiurban,True
+LP001813,Male,False,0,Graduate,Self-Employed,6050,36,444,False,38,False,4333.0,Not Applicable,0,650,False,120.0,180.0,Urban,False
+LP001814,Male,True,2,Graduate,Salaried,9703,18,804,False,38,False,0.0,Not Applicable,0,650,False,112.0,360.0,Urban,True
+LP001819,Male,True,1,Not Graduate,Salaried,6608,42,850,False,53,True,0.0,Salaried,33,757,False,137.0,180.0,Urban,True
+LP001824,Male,True,1,Graduate,Salaried,2882,23,876,False,31,False,1843.0,Not Applicable,0,650,False,123.0,480.0,Semiurban,True
+LP001825,Male,True,0,Graduate,Salaried,1809,21,736,True,36,True,1868.0,Self-Employed,20,700,False,90.0,360.0,Urban,True
+LP001836,Female,False,2,Graduate,Salaried,3427,40,479,True,48,True,0.0,Self-Employed,27,486,True,138.0,360.0,Urban,False
+LP001841,Male,False,0,Not Graduate,Self-Employed,2583,50,761,False,60,True,2167.0,Salaried,45,644,False,104.0,360.0,Rural,True
+LP001849,Male,False,0,Not Graduate,Salaried,6045,18,615,True,20,True,0.0,Salaried,13,519,False,115.0,360.0,Rural,False
+LP001854,Male,True,3+,Graduate,Salaried,5250,49,614,True,59,True,0.0,Salaried,23,471,False,94.0,360.0,Urban,False
+LP001864,Male,True,3+,Not Graduate,Salaried,4931,56,516,True,58,True,0.0,Salaried,32,594,True,128.0,360.0,Semiurban,False
+LP001868,Male,False,0,Graduate,Salaried,2060,2,747,False,5,False,2209.0,Not Applicable,0,650,False,134.0,360.0,Semiurban,True
+LP001871,Female,False,0,Graduate,Salaried,7200,12,677,False,20,False,0.0,Not Applicable,0,650,False,120.0,360.0,Rural,True
+LP001872,Male,False,0,Graduate,Self-Employed,5166,48,827,False,48,True,0.0,Salaried,40,868,False,128.0,360.0,Semiurban,True
+LP001877,Male,True,2,Graduate,Salaried,4708,9,889,False,43,False,1387.0,Not Applicable,0,650,False,150.0,360.0,Semiurban,True
+LP001883,Female,False,0,Graduate,Salaried,3418,45,471,True,53,True,0.0,Self-Employed,7,413,False,135.0,360.0,Rural,False
+LP001884,Female,False,1,Graduate,Salaried,2876,14,892,False,15,True,1560.0,Salaried,2,692,True,90.0,360.0,Urban,True
+LP001888,Female,False,0,Graduate,Salaried,3237,14,756,False,60,False,0.0,Not Applicable,0,650,False,30.0,360.0,Urban,True
+LP001892,Male,False,0,Graduate,Salaried,2833,5,682,False,49,False,1857.0,Not Applicable,0,650,False,126.0,360.0,Rural,True
+LP001894,Male,True,0,Graduate,Salaried,2620,53,664,False,56,False,2223.0,Not Applicable,0,650,False,150.0,360.0,Semiurban,True
+LP001896,Male,True,2,Graduate,Salaried,3900,50,654,False,51,False,0.0,Not Applicable,0,650,False,90.0,360.0,Semiurban,True
+LP001900,Male,True,1,Graduate,Salaried,2750,56,858,True,58,True,1842.0,Self-Employed,39,646,False,115.0,360.0,Semiurban,True
+LP001904,Male,True,0,Graduate,Salaried,3103,59,671,False,59,False,1300.0,Not Applicable,0,650,False,80.0,360.0,Urban,True
+LP001908,Female,True,0,Not Graduate,Salaried,4100,24,875,False,36,False,0.0,Not Applicable,0,650,False,124.0,360.0,Rural,True
+LP001914,Male,True,0,Graduate,Salaried,3927,0,848,True,28,False,800.0,Not Applicable,0,650,False,112.0,360.0,Semiurban,True
+LP001915,Male,True,2,Graduate,Salaried,2301,22,728,True,39,False,985.7999877999998,Not Applicable,0,650,False,78.0,180.0,Urban,True
+LP001917,Female,False,0,Graduate,Salaried,1811,1,790,False,8,False,1666.0,Not Applicable,0,650,False,54.0,360.0,Urban,True
+LP001924,Male,False,0,Graduate,Salaried,3158,48,843,True,55,True,3053.0,Self-Employed,40,638,False,89.0,360.0,Rural,True
+LP001925,Female,False,0,Graduate,Self-Employed,2600,55,349,True,58,True,1717.0,Salaried,42,557,True,99.0,300.0,Semiurban,False
+LP001926,Male,True,0,Graduate,Salaried,3704,45,757,False,45,True,2000.0,Self-Employed,41,603,False,120.0,360.0,Rural,True
+LP001931,Female,False,0,Graduate,Salaried,4124,30,698,False,56,False,0.0,Not Applicable,0,650,False,115.0,360.0,Semiurban,True
+LP001936,Male,True,0,Graduate,Salaried,3075,37,874,False,42,True,2416.0,Self-Employed,16,654,False,139.0,360.0,Rural,True
+LP001938,Male,True,2,Graduate,Salaried,4400,25,422,True,46,True,0.0,Self-Employed,19,554,False,127.0,360.0,Semiurban,False
+LP001940,Male,True,2,Graduate,Salaried,3153,39,703,False,45,False,1560.0,Not Applicable,0,650,False,134.0,360.0,Urban,True
+LP001945,Female,False,,Graduate,Salaried,5417,11,449,True,42,False,0.0,Not Applicable,0,650,False,143.0,480.0,Urban,False
+LP001949,Male,True,3+,Graduate,Salaried,4416,60,774,False,60,True,1250.0,Salaried,19,774,False,110.0,360.0,Urban,True
+LP001954,Female,True,1,Graduate,Salaried,4666,34,798,False,60,True,0.0,Salaried,30,854,False,135.0,360.0,Urban,True
+LP001963,Male,True,1,Graduate,Salaried,2014,27,396,True,57,False,2925.0,Not Applicable,0,650,False,113.0,360.0,Urban,False
+LP001964,Male,True,0,Not Graduate,Salaried,1800,52,763,True,60,True,2934.0,Self-Employed,48,673,False,93.0,360.0,Urban,False
+LP001972,Male,True,,Not Graduate,Salaried,2875,6,680,False,23,False,1750.0,Not Applicable,0,650,False,105.0,360.0,Semiurban,True
+LP001974,Female,False,0,Graduate,Salaried,5000,51,878,False,57,True,0.0,Salaried,47,812,False,132.0,360.0,Rural,True
+LP001977,Male,True,1,Graduate,Salaried,1625,50,785,False,52,False,1803.0,Not Applicable,0,650,False,96.0,360.0,Urban,True
+LP001978,Male,False,0,Graduate,Salaried,4000,26,824,False,26,True,2500.0,Salaried,7,693,True,140.0,360.0,Rural,True
+LP001993,Female,False,0,Graduate,Salaried,3762,49,869,False,51,True,1666.0,Self-Employed,25,609,False,135.0,360.0,Rural,True
+LP001994,Female,False,0,Graduate,Salaried,2400,45,642,True,55,True,1863.0,Salaried,45,568,True,104.0,360.0,Urban,False
+LP002002,Female,False,0,Graduate,Salaried,2917,26,828,False,31,True,0.0,Salaried,22,697,False,84.0,360.0,Semiurban,True
+LP002004,Male,False,0,Not Graduate,Salaried,2927,34,872,False,58,False,2405.0,Not Applicable,0,650,False,111.0,360.0,Semiurban,True
+LP002006,Female,False,0,Graduate,Salaried,2507,27,767,False,34,True,0.0,Self-Employed,14,816,False,56.0,360.0,Rural,True
+LP002008,Male,True,2,Graduate,Self-Employed,5746,57,826,False,57,False,0.0,Not Applicable,0,650,False,144.0,84.0,Rural,True
+LP002031,Male,True,1,Not Graduate,Salaried,3399,31,729,True,36,False,1640.0,Not Applicable,0,650,False,111.0,180.0,Urban,True
+LP002035,Male,True,2,Graduate,Salaried,3717,46,758,False,58,True,0.0,Salaried,26,870,False,120.0,360.0,Semiurban,True
+LP002036,Male,True,0,Graduate,Salaried,2058,20,700,False,55,True,2134.0,Self-Employed,13,869,True,88.0,360.0,Urban,True
+LP002043,Female,False,1,Graduate,Salaried,3541,29,675,False,38,True,0.0,Self-Employed,13,781,False,112.0,360.0,Semiurban,True
+LP002051,Male,True,0,Graduate,Salaried,2400,33,881,False,42,True,2167.0,Salaried,14,849,False,115.0,360.0,Semiurban,True
+LP002053,Male,True,3+,Graduate,Salaried,4342,48,856,True,51,True,189.0,Self-Employed,21,862,False,124.0,360.0,Semiurban,True
+LP002055,Female,False,0,Graduate,Salaried,3166,55,666,True,58,False,2985.0,Not Applicable,0,650,False,132.0,360.0,Rural,True
+LP002068,Male,False,0,Graduate,Salaried,4917,3,732,False,6,False,0.0,Not Applicable,0,650,False,130.0,360.0,Rural,True
+LP002086,Female,True,0,Graduate,Salaried,4333,9,593,True,41,False,2451.0,Not Applicable,0,650,False,110.0,360.0,Urban,False
+LP002087,Female,False,0,Graduate,Salaried,2500,37,887,False,47,False,0.0,Not Applicable,0,650,False,67.0,360.0,Urban,True
+LP002097,Male,False,1,Graduate,Salaried,4384,11,693,False,46,False,1793.0,Not Applicable,0,650,False,117.0,360.0,Urban,True
+LP002098,Male,False,0,Graduate,Salaried,2935,56,755,True,56,True,0.0,Salaried,36,698,False,98.0,360.0,Semiurban,True
+LP002100,Male,False,,Graduate,Salaried,2833,16,813,False,33,False,0.0,Not Applicable,0,650,False,71.0,360.0,Urban,True
+LP002106,Male,True,,Graduate,Self-Employed,5503,42,679,False,53,True,4490.0,Salaried,24,753,False,70.0,,Semiurban,True
+LP002114,Female,False,0,Graduate,Salaried,4160,21,826,False,22,False,0.0,Not Applicable,0,650,False,71.0,360.0,Semiurban,True
+LP002116,Female,False,0,Graduate,Salaried,2378,57,366,True,59,False,0.0,Not Applicable,0,650,False,46.0,360.0,Rural,False
+LP002126,Male,True,3+,Not Graduate,Salaried,3173,39,852,False,53,False,0.0,Not Applicable,0,650,False,74.0,360.0,Semiurban,True
+LP002128,Male,True,2,Graduate,Salaried,2583,5,834,True,56,True,2330.0,Self-Employed,5,689,True,125.0,360.0,Rural,True
+LP002131,Male,True,2,Not Graduate,Salaried,3083,10,735,False,11,False,2168.0,Not Applicable,0,650,False,126.0,360.0,Urban,True
+LP002141,Male,True,3+,Graduate,Salaried,2666,30,857,True,52,False,2083.0,Not Applicable,0,650,False,95.0,360.0,Rural,True
+LP002142,Female,True,0,Graduate,Self-Employed,5500,50,566,True,58,False,0.0,Not Applicable,0,650,False,105.0,360.0,Rural,False
+LP002143,Female,True,0,Graduate,Salaried,2423,11,663,False,48,False,505.0,Not Applicable,0,650,False,130.0,360.0,Semiurban,True
+LP002144,Female,False,,Graduate,Salaried,3813,13,875,True,38,False,0.0,Not Applicable,0,650,False,116.0,180.0,Urban,True
+LP002151,Male,True,1,Graduate,Salaried,3875,28,312,True,36,True,0.0,Salaried,1,625,False,67.0,360.0,Urban,False
+LP002158,Male,True,0,Not Graduate,Salaried,3000,28,426,True,49,False,1666.0,Not Applicable,0,650,False,100.0,480.0,Urban,False
+LP002161,Female,False,1,Graduate,Salaried,4723,51,328,False,53,True,0.0,Salaried,21,505,True,81.0,360.0,Semiurban,False
+LP002175,Male,True,0,Graduate,Salaried,4750,38,674,False,40,False,2333.0,Not Applicable,0,650,False,130.0,360.0,Urban,True
+LP002178,Male,True,0,Graduate,Salaried,3013,29,896,False,38,False,3033.0,Not Applicable,0,650,False,95.0,300.0,Urban,True
+LP002180,Male,False,0,Graduate,Self-Employed,6822,52,749,False,58,True,0.0,Self-Employed,45,894,False,141.0,360.0,Rural,True
+LP002181,Male,False,0,Not Graduate,Salaried,6216,23,533,True,23,True,0.0,Salaried,9,416,True,133.0,360.0,Rural,False
+LP002187,Male,False,0,Graduate,Salaried,2500,29,755,False,50,True,0.0,Self-Employed,15,699,True,96.0,480.0,Semiurban,False
+LP002188,Male,False,0,Graduate,Salaried,5124,60,567,False,60,False,0.0,Not Applicable,0,650,False,124.0,,Rural,False
+LP002205,Male,False,1,Graduate,Salaried,3062,34,573,True,48,False,1987.0,Not Applicable,0,650,False,111.0,180.0,Urban,False
+LP002209,Female,False,0,Graduate,Salaried,2764,5,798,False,39,False,1459.0,Not Applicable,0,650,False,110.0,360.0,Urban,True
+LP002211,Male,True,0,Graduate,Salaried,4817,53,891,False,59,False,923.0,Not Applicable,0,650,False,120.0,180.0,Urban,True
+LP002219,Male,True,3+,Graduate,Salaried,8750,55,797,False,58,True,4996.0,Salaried,34,621,False,130.0,360.0,Rural,True
+LP002223,Male,True,0,Graduate,Salaried,4310,32,652,False,37,False,0.0,Not Applicable,0,650,False,130.0,360.0,Semiurban,True
+LP002224,Male,False,0,Graduate,Salaried,3069,43,491,False,56,True,0.0,Self-Employed,41,439,False,71.0,480.0,Urban,False
+LP002225,Male,True,2,Graduate,Salaried,5391,50,794,False,56,True,0.0,Self-Employed,28,819,False,130.0,360.0,Urban,True
+LP002226,Male,True,0,Graduate,Salaried,3333,41,888,True,49,True,2500.0,Salaried,33,756,False,128.0,360.0,Semiurban,True
+LP002234,Male,False,0,Graduate,Self-Employed,7167,25,763,False,55,True,0.0,Self-Employed,22,776,False,128.0,360.0,Urban,True
+LP002236,Male,True,2,Graduate,Salaried,4566,43,611,True,56,False,0.0,Not Applicable,0,650,False,100.0,360.0,Urban,False
+LP002237,Male,False,1,Graduate,Salaried,3667,44,829,False,53,True,0.0,Salaried,44,671,False,113.0,180.0,Urban,True
+LP002239,Male,False,0,Not Graduate,Salaried,2346,46,771,True,56,False,1600.0,Not Applicable,0,650,False,132.0,360.0,Semiurban,True
+LP002244,Male,True,0,Graduate,Salaried,2333,52,846,False,59,True,2417.0,Self-Employed,29,635,False,136.0,360.0,Urban,True
+LP002250,Male,True,0,Graduate,Salaried,5488,57,789,False,59,True,0.0,Salaried,48,889,False,125.0,360.0,Rural,True
+LP002263,Male,True,0,Graduate,Salaried,2583,23,764,False,46,True,2115.0,Self-Employed,3,773,True,120.0,360.0,Urban,True
+LP002265,Male,True,2,Not Graduate,Salaried,1993,55,808,False,55,True,1625.0,Self-Employed,48,745,True,113.0,180.0,Semiurban,True
+LP002266,Male,True,2,Graduate,Salaried,3100,20,744,False,27,True,1400.0,Self-Employed,6,688,False,113.0,360.0,Urban,True
+LP002272,Male,True,2,Graduate,Salaried,3276,55,898,True,60,True,484.0,Salaried,25,687,True,135.0,360.0,Semiurban,True
+LP002277,Female,False,0,Graduate,Salaried,3180,54,488,True,56,True,0.0,Self-Employed,45,511,True,71.0,360.0,Urban,False
+LP002281,Male,True,0,Graduate,Salaried,3033,25,761,False,53,True,1459.0,Salaried,1,688,False,95.0,360.0,Urban,True
+LP002284,Male,False,0,Not Graduate,Salaried,3902,35,836,False,57,True,1666.0,Salaried,3,716,False,109.0,360.0,Rural,True
+LP002287,Female,False,0,Graduate,Salaried,1500,50,465,False,52,True,1800.0,Self-Employed,26,643,True,103.0,360.0,Semiurban,False
+LP002288,Male,True,2,Not Graduate,Salaried,2889,28,600,True,46,True,0.0,Self-Employed,22,575,True,45.0,180.0,Urban,False
+LP002296,Male,False,0,Not Graduate,Salaried,2755,46,380,False,53,False,0.0,Not Applicable,0,650,False,65.0,300.0,Rural,False
+LP002297,Male,False,0,Graduate,Salaried,2500,41,870,False,53,False,20000.0,Not Applicable,0,650,False,103.0,360.0,Semiurban,True
+LP002300,Female,False,0,Not Graduate,Salaried,1963,33,867,False,52,False,0.0,Not Applicable,0,650,False,53.0,360.0,Semiurban,True
+LP002305,Female,False,0,Graduate,Salaried,4547,17,863,False,43,False,0.0,Not Applicable,0,650,False,115.0,360.0,Semiurban,True
+LP002308,Male,True,0,Not Graduate,Salaried,2167,43,686,False,54,True,2400.0,Self-Employed,43,636,False,115.0,360.0,Urban,True
+LP002314,Female,False,0,Not Graduate,Salaried,2213,5,772,True,26,True,0.0,Salaried,1,791,False,66.0,360.0,Rural,True
+LP002318,Female,False,1,Not Graduate,Self-Employed,3867,6,537,True,46,False,0.0,Not Applicable,0,650,False,62.0,360.0,Semiurban,False
+LP002332,Male,True,0,Not Graduate,Salaried,2253,56,862,False,57,False,2033.0,Not Applicable,0,650,False,110.0,360.0,Rural,True
+LP002337,Female,False,0,Graduate,Salaried,2995,28,711,False,42,False,0.0,Not Applicable,0,650,False,60.0,360.0,Urban,True
+LP002345,Male,True,0,Graduate,Salaried,1025,52,737,False,56,True,2773.0,Self-Employed,23,690,False,112.0,360.0,Rural,True
+LP002347,Male,True,0,Graduate,Salaried,3246,6,685,False,12,True,1417.0,Salaried,1,683,False,138.0,360.0,Semiurban,True
+LP002348,Male,True,0,Graduate,Salaried,5829,49,806,False,57,True,0.0,Salaried,34,620,False,138.0,360.0,Rural,True
+LP002357,Female,False,0,Not Graduate,Salaried,2720,22,647,True,22,True,0.0,Self-Employed,21,499,True,80.0,,Urban,False
+LP002361,Male,True,0,Graduate,Salaried,1820,30,699,True,50,False,1719.0,Not Applicable,0,650,False,100.0,360.0,Urban,True
+LP002362,Male,True,1,Graduate,Salaried,7250,53,681,False,58,True,1667.0,Self-Employed,39,688,True,110.0,,Urban,False
+LP002366,Male,True,0,Graduate,Salaried,2666,27,766,False,54,True,4300.0,Self-Employed,22,644,False,121.0,360.0,Rural,True
+LP002367,Female,False,1,Not Graduate,Salaried,4606,1,644,True,5,False,0.0,Not Applicable,0,650,False,81.0,360.0,Rural,False
+LP002368,Male,True,2,Graduate,Salaried,5935,5,663,False,46,False,0.0,Not Applicable,0,650,False,133.0,360.0,Semiurban,True
+LP002369,Male,True,0,Graduate,Salaried,2920,48,874,False,55,False,16.12000084,Not Applicable,0,650,False,87.0,360.0,Rural,True
+LP002370,Male,False,0,Not Graduate,Salaried,2717,8,784,False,60,False,0.0,Not Applicable,0,650,False,60.0,180.0,Urban,True
+LP002377,Female,False,1,Graduate,Self-Employed,8624,53,686,False,60,False,0.0,Not Applicable,0,650,False,150.0,360.0,Semiurban,True
+LP002379,Male,False,0,Graduate,Salaried,6500,47,782,True,54,True,0.0,Salaried,0,675,True,105.0,360.0,Rural,False
+LP002387,Male,True,0,Graduate,Salaried,2425,5,853,False,22,False,2340.0,Not Applicable,0,650,False,143.0,360.0,Semiurban,True
+LP002390,Male,False,0,Graduate,Salaried,3750,37,826,False,58,False,0.0,Not Applicable,0,650,False,100.0,360.0,Urban,True
+LP002398,Male,False,0,Graduate,Salaried,1926,22,666,False,36,False,1851.0,Not Applicable,0,650,False,50.0,360.0,Semiurban,True
+LP002407,Female,True,0,Not Graduate,Self-Employed,7142,30,817,False,38,True,0.0,Salaried,22,673,False,138.0,360.0,Rural,True
+LP002418,Male,False,3+,Not Graduate,Salaried,4707,57,753,False,57,True,1993.0,Salaried,42,756,False,148.0,360.0,Semiurban,True
+LP002429,Male,True,1,Graduate,Self-Employed,3466,46,688,False,46,True,1210.0,Salaried,24,858,False,130.0,360.0,Rural,True
+LP002434,Male,True,2,Not Graduate,Salaried,4652,46,803,False,60,False,0.0,Not Applicable,0,650,False,110.0,360.0,Rural,True
+LP002435,Male,True,0,Graduate,Salaried,3539,46,488,True,50,False,1376.0,Not Applicable,0,650,False,55.0,360.0,Rural,False
+LP002443,Male,True,2,Graduate,Salaried,3340,29,574,True,58,False,1710.0,Not Applicable,0,650,False,150.0,360.0,Rural,False
+LP002446,Male,True,2,Not Graduate,Salaried,2309,22,636,False,58,True,1255.0,Self-Employed,13,403,True,125.0,360.0,Rural,False
+LP002447,Male,True,2,Not Graduate,Salaried,1958,55,801,True,58,True,1456.0,Self-Employed,39,767,False,60.0,300.0,Urban,True
+LP002448,Male,True,0,Graduate,Salaried,3948,46,532,True,51,True,1733.0,Self-Employed,15,445,True,149.0,360.0,Rural,False
+LP002449,Male,True,0,Graduate,Salaried,2483,53,775,False,53,True,2466.0,Self-Employed,22,646,False,90.0,180.0,Rural,True
+LP002453,Male,False,0,Graduate,Self-Employed,7085,59,752,False,60,True,0.0,Self-Employed,37,627,False,84.0,360.0,Semiurban,True
+LP002455,Male,True,2,Graduate,Salaried,3859,56,728,False,56,False,0.0,Not Applicable,0,650,False,96.0,360.0,Semiurban,True
+LP002459,Male,True,0,Graduate,Salaried,4301,36,832,False,56,False,0.0,Not Applicable,0,650,False,118.0,360.0,Urban,True
+LP002472,Male,False,2,Graduate,Salaried,4354,42,706,False,59,False,0.0,Not Applicable,0,650,False,136.0,360.0,Rural,True
+LP002484,Male,True,3+,Graduate,Salaried,7740,23,794,True,38,True,0.0,Salaried,18,841,False,128.0,180.0,Urban,True
+LP002489,Female,False,1,Not Graduate,Salaried,5191,12,661,False,25,False,0.0,Not Applicable,0,650,False,132.0,360.0,Semiurban,True
+LP002493,Male,False,0,Graduate,Salaried,4166,48,646,False,59,False,0.0,Not Applicable,0,650,False,98.0,360.0,Semiurban,False
+LP002494,Male,False,0,Graduate,Salaried,6000,47,738,False,56,False,0.0,Not Applicable,0,650,False,140.0,360.0,Rural,True
+LP002500,Male,True,3+,Not Graduate,Salaried,2947,47,519,True,48,True,1664.0,Salaried,7,605,True,70.0,180.0,Urban,False
+LP002502,Female,True,2,Not Graduate,Salaried,210,58,845,False,60,True,2917.0,Salaried,26,833,False,98.0,360.0,Semiurban,True
+LP002505,Male,True,0,Graduate,Salaried,4333,33,532,True,57,True,2451.0,Self-Employed,21,414,False,110.0,360.0,Urban,False
+LP002517,Male,True,1,Not Graduate,Salaried,2653,18,512,True,53,False,1500.0,Not Applicable,0,650,False,113.0,180.0,Rural,False
+LP002519,Male,True,3+,Graduate,Salaried,4691,48,786,True,56,False,0.0,Not Applicable,0,650,False,100.0,360.0,Semiurban,True
+LP002522,Female,False,0,Graduate,Self-Employed,2500,24,774,False,40,False,0.0,Not Applicable,0,650,False,93.0,360.0,Urban,True
+LP002530,,True,2,Graduate,Salaried,2873,6,561,True,19,False,1872.0,Not Applicable,0,650,False,132.0,360.0,Semiurban,False
+LP002536,Male,True,3+,Not Graduate,Salaried,3095,37,676,False,50,True,0.0,Self-Employed,17,718,False,113.0,360.0,Rural,True
+LP002537,Male,True,0,Graduate,Salaried,2083,24,711,True,42,False,3150.0,Not Applicable,0,650,False,128.0,360.0,Semiurban,True
+LP002544,Male,True,1,Not Graduate,Salaried,1958,45,726,False,51,False,2436.0,Not Applicable,0,650,False,131.0,360.0,Rural,True
+LP002545,Male,False,2,Graduate,Salaried,3547,28,552,True,47,True,0.0,Self-Employed,9,450,False,80.0,360.0,Rural,False
+LP002556,Male,False,0,Graduate,Salaried,2435,48,513,True,56,False,0.0,Not Applicable,0,650,False,75.0,360.0,Urban,False
+LP002560,Male,False,0,Not Graduate,Salaried,2699,56,671,False,59,True,2785.0,Self-Employed,47,768,False,96.0,360.0,Semiurban,True
+LP002571,Male,False,0,Not Graduate,Salaried,3691,48,712,False,56,True,0.0,Self-Employed,38,748,False,110.0,360.0,Rural,True
+LP002585,Male,True,0,Graduate,Salaried,3597,58,420,True,59,True,2157.0,Self-Employed,11,638,True,119.0,360.0,Rural,False
+LP002586,Female,True,1,Graduate,Salaried,3326,25,655,False,30,True,913.0,Self-Employed,22,856,False,105.0,84.0,Semiurban,True
+LP002587,Male,True,0,Not Graduate,Salaried,2600,46,753,False,49,True,1700.0,Salaried,42,798,True,107.0,360.0,Rural,True
+LP002588,Male,True,0,Graduate,Salaried,4625,53,703,False,53,False,2857.0,Not Applicable,0,650,False,111.0,12.0,Urban,True
+LP002600,Male,True,1,Graduate,Self-Employed,2895,42,709,False,50,False,0.0,Not Applicable,0,650,False,95.0,360.0,Semiurban,True
+LP002603,Female,False,0,Graduate,Salaried,645,51,747,False,53,False,3683.0,Not Applicable,0,650,False,113.0,480.0,Rural,True
+LP002606,Female,False,0,Graduate,Salaried,3159,57,668,False,60,True,0.0,Salaried,38,613,False,100.0,360.0,Semiurban,True
+LP002618,Male,True,1,Not Graduate,Salaried,4050,42,507,True,43,False,5302.0,Not Applicable,0,650,False,138.0,360.0,Rural,False
+LP002619,Male,True,0,Not Graduate,Salaried,3814,54,655,False,55,True,1483.0,Salaried,33,866,True,124.0,300.0,Semiurban,True
+LP002625,,False,0,Graduate,Salaried,3583,9,314,False,54,False,0.0,Not Applicable,0,650,False,96.0,360.0,Urban,False
+LP002637,Male,False,0,Not Graduate,Salaried,3598,59,359,True,59,True,1287.0,Salaried,44,533,True,100.0,360.0,Rural,False
+LP002643,Male,True,2,Graduate,Salaried,3283,16,710,False,23,True,2035.0,Salaried,15,856,False,148.0,360.0,Urban,True
+LP002648,Male,True,0,Graduate,Salaried,2130,44,519,True,52,True,6666.0,Salaried,23,634,False,70.0,180.0,Semiurban,False
+LP002659,Male,True,3+,Graduate,Salaried,3466,45,754,False,51,True,3428.0,Salaried,18,600,True,150.0,360.0,Rural,True
+LP002670,Female,True,2,Graduate,Salaried,2031,42,806,False,48,False,1632.0,Not Applicable,0,650,False,113.0,480.0,Semiurban,True
+LP002682,Male,True,,Not Graduate,Salaried,3074,1,623,True,42,False,1800.0,Not Applicable,0,650,False,123.0,360.0,Semiurban,False
+LP002684,Female,False,0,Not Graduate,Salaried,3400,10,574,True,36,False,0.0,Not Applicable,0,650,False,95.0,360.0,Rural,False
+LP002689,Male,True,2,Not Graduate,Salaried,2192,41,741,False,46,False,1742.0,Not Applicable,0,650,False,45.0,360.0,Semiurban,True
+LP002690,Male,False,0,Graduate,Salaried,2500,52,819,False,60,False,0.0,Not Applicable,0,650,False,55.0,360.0,Semiurban,True
+LP002692,Male,True,3+,Graduate,Self-Employed,5677,55,775,False,58,False,1424.0,Not Applicable,0,650,False,100.0,360.0,Rural,True
+LP002705,Male,True,0,Graduate,Salaried,3775,38,849,False,54,True,0.0,Salaried,4,613,False,110.0,360.0,Semiurban,True
+LP002714,Male,False,1,Not Graduate,Salaried,2679,10,691,False,10,False,1302.0,Not Applicable,0,650,False,94.0,360.0,Semiurban,True
+LP002716,Male,False,0,Not Graduate,Salaried,6783,60,825,True,60,False,0.0,Not Applicable,0,650,False,130.0,360.0,Semiurban,True
+LP002720,Male,True,3+,Graduate,Salaried,4281,57,797,False,58,False,0.0,Not Applicable,0,650,False,100.0,360.0,Urban,True
+LP002723,Male,False,2,Graduate,Salaried,3588,59,664,True,59,True,0.0,Self-Employed,43,685,True,110.0,360.0,Rural,False
+LP002732,Male,False,0,Not Graduate,Salaried,2550,55,784,False,56,True,2042.0,Salaried,39,790,False,126.0,360.0,Rural,True
+LP002738,Male,False,2,Graduate,Salaried,3617,40,797,False,57,True,0.0,Salaried,35,667,False,107.0,360.0,Semiurban,True
+LP002739,Male,True,0,Not Graduate,Salaried,2917,7,474,True,54,False,536.0,Not Applicable,0,650,False,66.0,360.0,Rural,False
+LP002741,Female,True,1,Graduate,Salaried,4608,26,818,False,35,False,2845.0,Not Applicable,0,650,False,140.0,180.0,Semiurban,True
+LP002743,Female,False,0,Graduate,Salaried,2138,52,587,True,53,False,0.0,Not Applicable,0,650,False,99.0,360.0,Semiurban,False
+LP002753,Female,False,1,Graduate,Salaried,3652,46,742,False,47,True,0.0,Self-Employed,28,776,False,95.0,360.0,Semiurban,True
+LP002755,Male,True,1,Not Graduate,Salaried,2239,23,813,False,47,False,2524.0,Not Applicable,0,650,False,128.0,360.0,Urban,True
+LP002757,Female,True,0,Not Graduate,Salaried,3017,57,830,False,60,True,663.0,Self-Employed,33,772,False,102.0,360.0,Semiurban,True
+LP002768,Male,False,0,Not Graduate,Salaried,3358,60,557,True,60,False,0.0,Not Applicable,0,650,False,80.0,36.0,Semiurban,False
+LP002772,Male,False,0,Graduate,Salaried,2526,50,775,False,55,True,1783.0,Self-Employed,25,871,False,145.0,360.0,Rural,True
+LP002776,Female,False,0,Graduate,Salaried,5000,54,446,True,57,True,0.0,Salaried,19,461,True,103.0,360.0,Semiurban,False
+LP002777,Male,True,0,Graduate,Salaried,2785,55,768,True,58,False,2016.0,Not Applicable,0,650,False,110.0,360.0,Rural,True
+LP002789,Male,True,0,Graduate,Salaried,3593,13,598,True,46,False,4266.0,Not Applicable,0,650,False,132.0,180.0,Rural,False
+LP002792,Male,True,1,Graduate,Salaried,5468,58,810,True,58,False,1032.0,Not Applicable,0,650,False,26.0,360.0,Semiurban,True
+LP002794,Female,False,0,Graduate,Salaried,2667,10,874,False,59,True,1625.0,Salaried,8,772,False,84.0,360.0,Urban,True
+LP002807,Male,True,2,Not Graduate,Salaried,3675,34,655,False,58,False,242.0,Not Applicable,0,650,False,108.0,360.0,Semiurban,True
+LP002821,Male,False,0,Not Graduate,Self-Employed,5800,3,829,False,52,False,0.0,Not Applicable,0,650,False,132.0,360.0,Semiurban,True
+LP002833,Male,True,0,Not Graduate,Salaried,4467,7,714,True,39,False,0.0,Not Applicable,0,650,False,120.0,360.0,Rural,True
+LP002836,Male,False,0,Graduate,Salaried,3333,42,830,False,59,True,0.0,Salaried,31,702,False,70.0,360.0,Urban,True
+LP002837,Male,True,3+,Graduate,Salaried,3400,39,460,True,41,False,2500.0,Not Applicable,0,650,False,123.0,360.0,Rural,False
+LP002840,Female,False,0,Graduate,Salaried,2378,42,647,False,44,True,0.0,Salaried,32,517,True,9.0,360.0,Urban,False
+LP002841,Male,True,0,Graduate,Salaried,3166,38,461,True,60,False,2064.0,Not Applicable,0,650,False,104.0,360.0,Urban,False
+LP002863,Male,True,3+,Graduate,Salaried,6406,7,431,True,14,False,0.0,Not Applicable,0,650,False,150.0,360.0,Semiurban,False
+LP002868,Male,True,2,Graduate,Salaried,3159,21,793,False,50,True,461.0,Salaried,9,759,True,108.0,84.0,Urban,True
+LP002872,,True,0,Graduate,Salaried,3087,36,658,True,40,True,2210.0,Self-Employed,32,665,True,136.0,360.0,Semiurban,False
+LP002874,Male,False,0,Graduate,Salaried,3229,29,749,False,32,True,2739.0,Salaried,24,648,False,110.0,360.0,Urban,True
+LP002877,Male,True,1,Graduate,Salaried,1782,22,888,False,54,True,2232.0,Self-Employed,8,643,True,107.0,360.0,Rural,True
+LP002893,Male,False,0,Graduate,Salaried,1836,29,570,True,38,False,33837.0,Not Applicable,0,650,False,90.0,360.0,Urban,False
+LP002894,Female,True,0,Graduate,Salaried,3166,58,662,False,58,False,0.0,Not Applicable,0,650,False,36.0,360.0,Semiurban,True
+LP002898,Male,True,1,Graduate,Salaried,1880,27,374,True,53,True,0.0,Salaried,23,415,True,61.0,360.0,Rural,False
+LP002911,Male,True,1,Graduate,Salaried,2787,41,460,True,51,True,1917.0,Salaried,30,584,True,146.0,360.0,Rural,False
+LP002916,Male,True,0,Graduate,Salaried,2297,51,754,False,56,True,1522.0,Self-Employed,29,878,False,104.0,360.0,Urban,True
+LP002917,Female,False,0,Not Graduate,Salaried,2165,38,838,False,44,False,0.0,Not Applicable,0,650,False,70.0,360.0,Semiurban,True
+LP002925,,False,0,Graduate,Salaried,4750,57,731,False,60,False,0.0,Not Applicable,0,650,False,94.0,360.0,Semiurban,True
+LP002926,Male,True,2,Graduate,Self-Employed,2726,40,485,True,40,True,0.0,Salaried,18,477,True,106.0,360.0,Semiurban,False
+LP002928,Male,True,0,Graduate,Salaried,3000,14,867,False,38,False,3416.0,Not Applicable,0,650,False,56.0,180.0,Semiurban,True
+LP002936,Male,True,0,Graduate,Salaried,3859,1,843,False,42,False,3300.0,Not Applicable,0,650,False,142.0,180.0,Rural,True
+LP002940,Male,False,0,Not Graduate,Salaried,3833,39,796,False,42,True,0.0,Self-Employed,9,893,False,110.0,360.0,Rural,True
+LP002943,Male,False,,Graduate,Salaried,2987,59,642,True,59,True,0.0,Salaried,48,500,True,88.0,360.0,Semiurban,False
+LP002953,Male,True,3+,Graduate,Salaried,5703,42,665,False,60,False,0.0,Not Applicable,0,650,False,128.0,360.0,Urban,True
+LP002974,Male,True,0,Graduate,Salaried,3232,18,877,False,53,False,1950.0,Not Applicable,0,650,False,108.0,360.0,Rural,True
+LP002978,Female,False,0,Graduate,Salaried,2900,45,795,False,57,True,0.0,Self-Employed,37,773,False,71.0,360.0,Rural,True
+LP002979,Male,True,3+,Graduate,Salaried,4106,10,703,True,50,False,0.0,Not Applicable,0,650,False,40.0,180.0,Rural,True
+LP002990,Female,False,0,Graduate,Self-Employed,4583,10,526,True,17,False,0.0,Not Applicable,0,650,False,133.0,360.0,Semiurban,False
