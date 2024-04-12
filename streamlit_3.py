@@ -79,5 +79,5 @@ if st.button('Predict'):
     prediction_text = 'Approved' if majority_vote == 0 else 'Declined'
     true_label_text = 'Approved' if selected_row[target] == 0 else 'Declined'
     
-    st.write(f'Majority Predicted Class: {prediction_text}')
+    st.write(f'Predicted Class: {prediction_text}')
     st.write(f'True Label: {true_label_text}')
